@@ -110,7 +110,7 @@ This track is still secret and will be announced on the day of the hackathon!
 #### XRPL Network Requirements
 - Build on the XRPL Testnet.
 - All projects must submit transactions to the L1.
-- Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
+- Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed.
 
 <div align="center">
 
