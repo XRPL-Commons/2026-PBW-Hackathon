@@ -1,46 +1,92 @@
 <div align="center">
 
-# Paris Blockchain Week Hackathon 2026
+# Hack the Block 2026
+
+### Official Paris Blockchain Week Hackathon
+
+**April 11-12, 2026 -- Paris**
+
+**Powered by XRP Ledger | Supported by XRPL Commons & Kryptosphere**
 
 </div>
 
-![](./img/1.jpg)
+![](./img/header.png)
 
-**Welcome to the on-site hackathon of Paris Blockchain Week 2026 by XRPL Commons!**
+**Welcome to Hack the Block, the flagship hackathon of Paris Blockchain Week!**
 
-**As part of this hackathon, you can choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
+100+ developers from around the world will have the opportunity to turn their ideas into real blockchain solutions over 24 hours of hacking.
 
-**You're not required to stick to these topics if you have an original idea!**
-
-### Track 1 - TBD
-- TBD
-
-### Track 2 - TBD
-- TBD
-
-### Track 3 - Crypto for Good
-- Financial Inclusion: AI-driven credit scoring, micro-lending, and savings tools for the unbanked.
-- Climate Resilience: Blockchain-powered climate data tracking, carbon credits, and decentralized energy solutions.
-- Humanitarian Aid: Transparent, crypto-native fundraising and aid distribution systems.
-
-<div align="center">
-
-![](./img/3.png)
-
-</div>
+**[Register to Hack](https://luma.com/hacktheblock2026-pbw-xrpl)** | **[Hackathon Presentation Page](https://www.parisblockchainweek.com/hackathon)**
 
 ---
 
-**Two onsite workshops will help guide you during this event by providing hands-on insights, practical tools, and expert support to develop your project.**
+### Venue
 
-### Workshop 1 *(Saturday TBD)*
+**La Faïencerie** -- Headquarters of Albert School's Paris campus
+18 rue de Paradis, 75010 Paris
 
-> How to build on the XRP Ledger?
-An overview of how it works, getting started, creating a wallet, and making your first transaction.
+- Capacity up to 150 people
+- Open overnight from Saturday to Sunday
 
-### Workshop 2 *(Saturday TBD)*
+---
 
-> TBD
+### Tracks
+
+#### 1. Make Waves
+Build on XRPL to create applications that drive real usage, sustainable TVL, and ecosystem growth.
+Use cases like micropayments, gaming, ad-tech, X402, and AI-to-AI are just examples -- the goal is to bring users, liquidity, and measurable on-chain value to XRPL.
+
+#### 2. Impact Finance
+Put blockchain at the service of social and environmental impact, fight climate change, democratize access to finance for the most excluded populations, and ensure that this technology benefits the common good above all.
+
+#### 3. Secret
+This track is still secret and will be announced on the day of the hackathon!
+
+---
+
+### Prizes
+
+| Prize | Amount |
+|-------|--------|
+| 1st Place | 2,500 EUR |
+| 2nd Place | 1,500 EUR |
+| 3rd Place | 1,000 EUR |
+| Secret Prize | 1,000 EUR |
+| Special Prize (x2) | 1,000 EUR each |
+
+**Total prize pool: 10,000 EUR**
+
+---
+
+### Agenda
+
+#### Saturday, April 11
+
+| Time | Event |
+|------|-------|
+| 08:30 - 09:00 | Doors open & Breakfast |
+| 09:00 | Welcome speeches |
+| 09:15 - 10:00 | Team constitution |
+| 10:00 | **Let's Hack!** (Official start) |
+| 10:30 - 11:30 | Dive into the XRP Ledger Universe (Workshop) |
+| 01:00 - 02:00 | Lunch break |
+| 04:00 - 05:00 | Hack the Mentor (Office hours) |
+| 07:00 - 08:00 | Dinner break |
+| 10:00 - 10:30 PM | Wake-Up! (Hacker activity) |
+
+#### Sunday, April 12
+
+| Time | Event |
+|------|-------|
+| 08:30 - 09:00 | Coffee & Breakfast |
+| 11:00 - 11:30 | Hack the Mentor (Office hours) |
+| 01:00 | **Final project submission** |
+| 01:00 - 02:00 | Lunch break |
+| 02:00 - 04:30 | Team Pitches |
+| 04:30 - 05:30 | Jury deliberation |
+| 05:30 - 06:00 | Winner Ceremony |
+| 06:00 - 07:00 | Cocktail |
+| 08:00 | Closing |
 
 ---
 
@@ -66,13 +112,10 @@ An overview of how it works, getting started, creating a wallet, and making your
 - Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
 
 <div align="center">
-</br>
 
-#### **Submission deadline and platform link TBD**
+#### **Final submission deadline: Sunday, April 12 at 1:00 PM**
 
 #### **You need to prepare a 5 minute pitch followed by a 2 minute Q&A session.**
-
-![](./img/2.png)
 
 </div>
 
@@ -115,23 +158,15 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - Mathis (XRPL Commons) *Technology*
 - Florian (XRPL Commons) *Technology*
 
-<div align="right">
-
-![](./img/4.png)
-
-</div>
-
 ---
 
 ### Documentation and essential links
 
 #### Slides
 
-[PBW Hackathon Opening Ceremony](./pdf/TODO)
+[Hack the Block Opening Ceremony](./pdf/TODO)
 
-[PBW Hackathon Workshop 1](./pdf/TODO)
-
-[PBW Hackathon Workshop 2](./pdf/TODO)
+[Hack the Block Workshop](./pdf/TODO)
 
 #### Wifi password
 
@@ -161,4 +196,10 @@ Password: `TBD`
 | **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org)  [XRPLWin Explorer](https://xrplwin.com/) |
 | **Wallets, Escrows, Tickets** | Practical tutorials on creating wallets, trustlines, escrows and tickets | [Florian Uzio Guides](https://github.com/florent-uzio/xrpl-commons-tutorials) |
 
-![](./img/5.png)
+---
+
+<div align="center">
+
+**[Register to Hack](https://luma.com/hacktheblock2026-pbw-xrpl)** | **[parisblockchainweek.com/hackathon](https://www.parisblockchainweek.com/hackathon)** | **[xrpl-commons.org](https://xrpl-commons.org)**
+
+</div>
