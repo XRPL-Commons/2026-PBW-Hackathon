@@ -4,7 +4,7 @@
 
 ### Official Paris Blockchain Week Hackathon
 
-**April 11-12, 2026 -- Paris**
+**April 11-12, 2026 - Paris**
 
 **Powered by XRP Ledger | Supported by XRPL Commons & Kryptosphere**
 
@@ -25,7 +25,6 @@
 **La Faïencerie** -- Headquarters of Albert School's Paris campus
 18 rue de Paradis, 75010 Paris
 
-- Capacity up to 150 people
 - Open overnight from Saturday to Sunday
 
 ---
@@ -34,13 +33,13 @@
 
 #### 1. Make Waves
 Build on XRPL to create applications that drive real usage, sustainable TVL, and ecosystem growth.
-Use cases like micropayments, gaming, ad-tech, X402, and AI-to-AI are just examples -- the goal is to bring users, liquidity, and measurable on-chain value to XRPL.
+Use cases like micropayments, gaming, ad-tech, X402, and AI-to-AI are just examples, the goal is to bring users, liquidity, and measurable on-chain value to XRPL.
 
 #### 2. Impact Finance
 Put blockchain at the service of social and environmental impact, fight climate change, democratize access to finance for the most excluded populations, and ensure that this technology benefits the common good above all.
 
-#### 3. Secret
-This track is still secret and will be announced on the day of the hackathon!
+#### 3. Secret Prizes
+There will be additional secret prizes, which will be announced during the hackathon opening ceremony.
 
 ---
 
@@ -51,8 +50,12 @@ This track is still secret and will be announced on the day of the hackathon!
 | 1st Place | 2,500 EUR |
 | 2nd Place | 1,500 EUR |
 | 3rd Place | 1,000 EUR |
-| Secret Prize | 1,000 EUR |
-| Special Prize (x2) | 1,000 EUR each |
+
+Additional prizes will be awarded for the secret tracks that will be announced during the opening ceremony.
+
+| Prize | Amount |
+|-------|--------|
+| Secret Prizes x5 | 1,000 EUR |
 
 **Total prize pool: 10,000 EUR**
 
@@ -112,6 +115,8 @@ This track is still secret and will be announced on the day of the hackathon!
 - All projects must submit transactions to the L1.
 - Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed.
 
+---
+
 <div align="center">
 
 #### **Final submission deadline: Sunday, April 12 at 1:00 PM**
@@ -137,13 +142,13 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 - Denis Angell (XRPL Labs) *Technology*
 - Melanie Dinane (42 Paris) *Business*
-- Eva Mirza (Ledger) *Technology*
+- Eva Mirza *Technology*
 - Sylvain Verron (EM Lyon / ESDES) *Business*
 - Martino Bettucci *Technology*
 - Mark-Killian Zinenberg (Kryptosphere) *Technology*
 - Germain Gaschet (Sharpstone Capital) *Business*
 - Andrew "Handy Andy" Spencer *Technology*
-- Panos (TBD) *Technology*
+- Panos *Technology*
 - Emiliano Bonassi (Boundless) *Technology*
 - Roman Terekh (QuickNode) *Technology*
 - David Bchiri (XRPL Commons) *Technology and business*
@@ -155,7 +160,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - Atharava Lele (Trinity College Dublin) *Technology*
 - Denis Angell (XRPL Labs) *Technology*
 - Andrew "Handy Andy" Spencer *Technology*
-- Panos (TBD) *Technology and business*
+- Panos *Technology and business*
 - Luc (XRPL Commons) *Technology and business*
 - Thomas (XRPL Commons) *Technology*
 - Mathis (XRPL Commons) *Technology*
