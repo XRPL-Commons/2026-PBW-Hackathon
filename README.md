@@ -144,6 +144,8 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - Germain Gaschet (Sharpstone Capital) *Business*
 - Andrew "Handy Andy" Spencer *Technology*
 - Panos (TBD) *Technology*
+- Emiliano Bonassi (Boundless) *Technology*
+- Roman Terekh (QuickNode) *Technology*
 - David Bchiri (XRPL Commons) *Technology and business*
 
 ### Mentors
