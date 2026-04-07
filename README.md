@@ -206,6 +206,9 @@ Password: `TBD`
 
 ---
 
+![](./img/footer.png)
+
+
 <div align="center">
 
 **[Register to Hack](https://luma.com/hacktheblock2026-pbw-xrpl)** | **[parisblockchainweek.com/hackathon](https://www.parisblockchainweek.com/hackathon)** | **[xrpl-commons.org](https://xrpl-commons.org)**
