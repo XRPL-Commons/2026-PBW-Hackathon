@@ -22,10 +22,12 @@
 
 ### Venue
 
-**La Faïencerie** -- Headquarters of Albert School's Paris campus
+**La Faïencerie**
+- Headquarters of Albert School's Paris campus
 18 rue de Paradis, 75010 Paris
 
 - Open overnight from Saturday to Sunday
+
 
 ---
 
