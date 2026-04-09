@@ -178,9 +178,11 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 #### Wifi password
 
-Network name: `TBD`
+![](./img/wifi.png)
 
-Password: `TBD`
+Network name: `GUEST-Albert`
+
+Password: `Welcome2Paradis`
 
 #### Getting started
 
