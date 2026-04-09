@@ -67,7 +67,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 
 | Prize | Amount |
 |-------|--------|
-| Secret Prizes x5 | 1,000 EUR |
+| Additional Prizes x5 | 1,000 EUR |
 
 **Total prize pool: 10,000 EUR**
 
@@ -89,6 +89,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 | 07:00 - 08:00 | Dinner break |
 | 10:00 - 10:30 PM | Wake-Up! (Hacker activity) |
 | 10:30 PM | Overnight Coding Fun |
+| 10:30 PM | Doors close, No re-entry |
 
 #### Sunday, April 12
 
