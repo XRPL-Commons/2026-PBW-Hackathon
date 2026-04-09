@@ -38,8 +38,20 @@ Use cases like micropayments, gaming, ad-tech, X402, and AI-to-AI are just examp
 #### 2. Impact Finance
 Put blockchain at the service of social and environmental impact, fight climate change, democratize access to finance for the most excluded populations, and ensure that this technology benefits the common good above all.
 
-#### 3. Secret Prizes
-There will be additional secret prizes, which will be announced during the hackathon opening ceremony.
+#### 3. Boundless
+Secret (Come back after the opening ceremony).
+
+#### 4. Quicknode
+Secret (Come back after the opening ceremony).
+
+#### 5. Zero to Users
+Secret (Come back after the opening ceremony).
+
+#### 5. Pixel Meets Chain
+Secret (Come back after the opening ceremony).
+
+#### 6. Why Not?
+Secret (Come back after the opening ceremony).
 
 ---
 
@@ -86,8 +98,10 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 | 11:00 - 11:30 | Hack the Mentor (Office hours) |
 | 01:00 | **Final Project Submission** |
 | 01:00 - 02:00 | Lunch break |
-| 02:00 - 04:30 | Team Pitches |
-| 04:30 - 05:30 | Jury deliberation |
+| 02:00 - 03:00 | First Round Team Pitches |
+| 03:00 - 03:30 | Jury Sync |
+| 03:30 - 04:30 | Finalist Team Pitches |
+| 04:30 - 05:30 | Jury Final Deliberation |
 | 05:30 - 06:00 | Winner Ceremony |
 | 06:00 - 07:00 | Cocktail |
 | 08:00 | Closing |
