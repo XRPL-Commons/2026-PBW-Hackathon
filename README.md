@@ -104,7 +104,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 | 03:30 - 04:30 | Finalist Team Pitches |
 | 04:30 - 05:30 | Jury Final Deliberation |
 | 05:30 - 06:00 | Winner Ceremony |
-| 06:00 - 07:00 | Cocktail |
+| 06:00 - 07:30 | Cocktail |
 | 08:00 | Closing |
 
 ---
