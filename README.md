@@ -79,14 +79,14 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 
 | Time | Event |
 |------|-------|
-| 08:30 - 09:00 | Doors open & Breakfast |
-| 09:00 - 09:15 | Welcome Speeches |
-| 09:15 - 10:00 | Team Constitution |
-| 10:00 | **Let's Hack!** - Official start. Team workspace setup |
-| 10:30 - 11:30 | Dive into the XRP Ledger Universe (Workshop) |
-| 01:00 - 02:00 | Lunch break |
-| 04:00 - 05:00 | Hack the Mentor (Office hours) |
-| 07:00 - 08:00 | Dinner break |
+| 08:30 - 09:00 AM | Doors open & Breakfast |
+| 09:00 - 09:15 AM | Welcome Speeches |
+| 09:15 - 10:00 AM | Team Constitution |
+| 10:00 AM | **Let's Hack!** - Official start. Team workspace setup |
+| 10:30 - 11:30 AM | Dive into the XRP Ledger Universe (Workshop) |
+| 01:00 - 02:00 PM | Lunch break |
+| 04:00 - 05:00 PM | Hack the Mentor (Office hours) |
+| 07:00 - 08:00 PM | Dinner break |
 | 10:00 - 10:30 PM | Wake-Up! (Hacker activity) |
 | 10:30 PM | Overnight Coding Fun |
 | 10:30 PM | Doors close, No re-entry |
@@ -95,17 +95,17 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 
 | Time | Event |
 |------|-------|
-| 08:30 - 10:00 | Coffee & Breakfast |
-| 11:00 - 11:30 | Hack the Mentor (Office hours) |
-| 01:00 | **Final Project Submission** |
-| 01:00 - 02:00 | Lunch break |
-| 02:00 - 03:00 | First Round Team Pitches |
-| 03:00 - 03:30 | Jury Sync |
-| 03:30 - 04:30 | Finalist Team Pitches |
-| 04:30 - 05:30 | Jury Final Deliberation |
-| 05:30 - 06:00 | Winner Ceremony |
-| 06:00 - 07:30 | Cocktail |
-| 08:00 | Closing |
+| 08:30 - 10:00 AM | Coffee & Breakfast |
+| 11:00 - 11:30 AM | Hack the Mentor (Office hours) |
+| 01:00 PM | **Final Project Submission** |
+| 01:00 - 02:00 PM | Lunch break |
+| 02:00 - 03:00 PM | First Round Team Pitches |
+| 03:00 - 03:30 PM | Jury Sync |
+| 03:30 - 04:30 PM | Finalist Team Pitches |
+| 04:30 - 05:30 PM | Jury Final Deliberation |
+| 05:30 - 06:00 PM | Winner Ceremony |
+| 06:00 - 07:30 PM | Cocktail |
+| 08:00 PM | Closing |
 
 ---
 
