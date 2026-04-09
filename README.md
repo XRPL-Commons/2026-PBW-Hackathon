@@ -80,14 +80,15 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 | Time | Event |
 |------|-------|
 | 08:30 - 09:00 AM | Doors open & Breakfast |
-| 09:00 - 09:15 AM | Welcome Speeches |
-| 09:15 - 10:00 AM | Team Constitution |
-| 10:00 AM | **Let's Hack!** - Official start. Team workspace setup |
-| 10:30 - 11:30 AM | Dive into the XRP Ledger Universe (Workshop) |
+| 09:30 - 10:00 AM | Welcome Speeches |
+| 10:00 AM | **Let's Hack!** - Official hackathon launch |
+| 10:00 - 11:00 AM | Team leads revolving pitch |
+| 11:00 - 12:00 AM | Workshops |
+| 12:00 PM | Team Constitution deadline |
 | 01:00 - 02:00 PM | Lunch break |
-| 04:00 - 05:00 PM | Hack the Mentor (Office hours) |
+| 04:00 - 05:00 PM | Hack the Mentor: office hours |
 | 07:00 - 08:00 PM | Dinner break |
-| 10:00 - 10:30 PM | Wake-Up! (Hacker activity) |
+| 09:00 - 09:30 PM |  Wake-up  the Hacker Activity |
 | 10:30 PM | Overnight Coding Fun |
 | 10:30 PM | Doors close, No re-entry |
 
