@@ -29,7 +29,7 @@
 
 ---
 
-### Tracks
+### Themes
 
 #### 1. Make Waves
 Build on XRPL to create applications that drive real usage, sustainable TVL, and ecosystem growth.
