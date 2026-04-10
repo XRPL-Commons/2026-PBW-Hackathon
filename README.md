@@ -32,8 +32,8 @@
 ### Main Themes
 
 #### Make Waves
-Build on XRPL to create applications that drive real usage, sustainable TVL, and ecosystem growth.
-Use cases like micropayments, gaming, ad-tech, X402, and AI-to-AI are just examples, the goal is to bring users, liquidity, and measurable on-chain value to XRPL.
+Build on XRPL to create apps that power real users, businesses, and value flows. 
+Focus on payments, real‑world assets, or institutional DeFi, driving recurring transactions, sustainable TVL, and measurable ecosystem growth.
 
 ### Partners bounties
 
