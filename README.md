@@ -37,26 +37,26 @@ Focus on payments, real‑world assets, or institutional DeFi, driving recurring
 
 ### Partners bounties
 
-#### __Boundless__
+#### > Boundless
 Secret (Come back after the opening ceremony).
 
-#### Quicknode
+#### > Quicknode
 Secret (Come back after the opening ceremony).
 
 ### Impact bounties
 
-#### Impact Finance
+#### > Impact Finance
 Put blockchain at the service of social and environmental impact, fight climate change, democratize access to finance for the most excluded populations, and ensure that this technology benefits the common good above all.
 
 ### Special bounties
 
-#### Zero to Users
+#### > Zero to Users
 Secret (Come back after the opening ceremony).
 
-#### Pixel Meets Chain
+#### > Pixel Meets Chain
 Secret (Come back after the opening ceremony).
 
-#### Why Not?
+#### > Why Not?
 Secret (Come back after the opening ceremony).
 
 ---
