@@ -69,13 +69,19 @@ Secret (Come back after the opening ceremony).
 | 2nd Place | 1,500 EUR |
 | 3rd Place | 1,000 EUR |
 
-Additional prizes will be awarded for the secret tracks that will be announced during the opening ceremony.
+Additional prizes will be awarded as follows. These prizes can be cumulated with main prizes. 
 
 | Prize | Amount |
 |-------|--------|
-| Additional Prizes x5 | 1,000 EUR |
+| Impact bounties - Outstanding | 1,500 EUR |
+| Impact bounties - Honors | 1,000 EUR |
+| Boundless bounty | 1,000 EUR |
+| Quicknode bounty | 1,000 EUR |
+| Zero to Users | 1,000 EUR |
+| Pixel Meets Chain | 1,000 EUR |
+| Why Not? | 1,000 EUR |
 
-**Total prize pool: 10,000 EUR**
+**Total prize pool: 12,500 EUR**
 
 ---
 
@@ -94,7 +100,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 | 01:00 - 02:00 PM | Lunch break |
 | 04:00 - 05:00 PM | Hack the Mentor: office hours |
 | 07:00 - 08:00 PM | Dinner break |
-| 09:00 - 09:30 PM |  Wake-up  the Hacker Activity |
+| 09:00 - 09:30 PM | Wake-up the Hacker Activity |
 | 10:30 PM | Overnight Coding Fun |
 | 10:30 PM | Doors close, No re-entry |
 
@@ -107,7 +113,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 | 01:00 PM | **Final Project Submission** |
 | 01:00 - 02:00 PM | Lunch break |
 | 02:00 - 03:00 PM | First Round Team Pitches |
-| 03:00 - 03:30 PM | Jury Sync |
+| 03:00 - 03:30 PM | Break |
 | 03:30 - 04:30 PM | Finalist Team Pitches |
 | 04:30 - 05:30 PM | Jury Final Deliberation |
 | 05:30 - 06:00 PM | Winner Ceremony |
@@ -133,7 +139,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 - A link to a video or screenshots showcasing your solution.
 
 #### XRPL Network Requirements
-- Build on the XRPL Testnet.
+- Build on the XRPL Testnets at your disposal.
 - All projects must submit transactions to the L1.
 - Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed.
 
@@ -143,7 +149,7 @@ Additional prizes will be awarded for the secret tracks that will be announced d
 
 #### **Final submission deadline: Sunday, April 12 at 1:00 PM**
 
-#### **You need to prepare a 5 minute pitch followed by a 2 minute Q&A session.**
+#### **You need to prepare for a 5 minute pitch followed by a 2 minute Q&A session.**
 
 </div>
 
@@ -156,8 +162,27 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - **Idea** (the originality of the concept)
 - **Implementation** (the quality of the code and robustness of the architecture)
 - **Demo** (how clearly you present your solution to the user)
-- **Potential** (the total value transacted on-chain, the business model, and the potential to turn your project into a product)
+- **Potential** (strength of the business model and ability to generate meaningful on-chain value)
 
+---
+
+### Pitches
+
+Projects will got through 2 rounds of pitching. Before you pitch, one of our mentors will conduct a technical review which is essentially a Q&A with your dev(s). 
+
+You must prepare a 5 minute pitch with demo and be ready for a 2 minute Q&A.
+
+Fast pitching round (2PM-3PM on Sunday)
+You will present to 2-3 judges. 
+You will have 3 minutes to pitch and demo your product. Focus only on the problem you are solving and then demo your solution. Skip other content if needed to make sure you get to the live demo.
+
+If you are selected you will get to pitch in front of everyone on the main stage.
+
+Main Stage
+You will present in front of all the judges.
+You will have 5 minutes to pitch and demo your idea. Here you can hit the team and business opportunity and do the full sotrytelling. You will want to demo your product again. Demo videos are OK. 
+
+Winners to be announced after the main stage pitches. 
 ---
 
 ### Judges
@@ -177,7 +202,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 ### Mentors
 
-- Ray Fuentes *Technology*
+- Ray Fuentes *Engagement*
 - Shane Calder (132 ENG Inc) *Technology*
 - Atharava Lele (Trinity College Dublin) *Technology*
 - Denis Angell (XRPL Labs) *Technology*
