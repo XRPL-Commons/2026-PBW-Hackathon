@@ -37,7 +37,7 @@ Focus on payments, real‑world assets, or institutional DeFi, driving recurring
 
 ### Partners bounties
 
-#### Boundless
+#### __Boundless__
 Secret (Come back after the opening ceremony).
 
 #### Quicknode
