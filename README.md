@@ -202,9 +202,9 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 ![](./img/wifi.png)
 
-Network name: `GUEST-Albert`
+Network name: `Teach-Albert`
 
-Password: `Welcome2Paradis`
+Password: `@Ugk65kzma`
 
 #### Getting started
 
