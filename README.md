@@ -158,7 +158,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 - Denis Angell (XRPL Labs) *Technology*
 - Melanie Dinane (42 Paris) *Business*
-- Eva Mirza *Technology*
+- Eva Mirza (DeVinci Blockchain) *Technology*
 - Sylvain Verron (EM Lyon / ESDES) *Business*
 - Martino Bettucci *Technology*
 - Mark-Killian Zinenberg (Kryptosphere) *Technology*
