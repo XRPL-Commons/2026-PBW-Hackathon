@@ -29,28 +29,34 @@
 
 ---
 
-### Themes
+### Main Themes
 
-#### 1. Make Waves
+#### Make Waves
 Build on XRPL to create applications that drive real usage, sustainable TVL, and ecosystem growth.
 Use cases like micropayments, gaming, ad-tech, X402, and AI-to-AI are just examples, the goal is to bring users, liquidity, and measurable on-chain value to XRPL.
 
-#### 2. Impact Finance
+### Partners bounties
+
+#### Boundless
+Secret (Come back after the opening ceremony).
+
+#### Quicknode
+Secret (Come back after the opening ceremony).
+
+### Impact bounties
+
+#### Impact Finance
 Put blockchain at the service of social and environmental impact, fight climate change, democratize access to finance for the most excluded populations, and ensure that this technology benefits the common good above all.
 
-#### 3. Boundless
+### Special bounties
+
+#### Zero to Users
 Secret (Come back after the opening ceremony).
 
-#### 4. Quicknode
+#### Pixel Meets Chain
 Secret (Come back after the opening ceremony).
 
-#### 5. Zero to Users
-Secret (Come back after the opening ceremony).
-
-#### 5. Pixel Meets Chain
-Secret (Come back after the opening ceremony).
-
-#### 6. Why Not?
+#### Why Not?
 Secret (Come back after the opening ceremony).
 
 ---
