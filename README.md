@@ -262,6 +262,40 @@ Each team is assigned a unique XRPL **SourceTag** following the format `20260400
 | 38 | Edel-ID | `2026040038` |
 | 39 | Qaf | `2026040039` |
 
+#### What is a SourceTag?
+
+On XRPL, `SourceTag` is an optional unsigned 32-bit integer field you add to a transaction (most commonly a Payment). It's a hint for the sender's side — often used to tag the originating user, app, or campaign.
+
+In a transaction JSON:
+
+```json
+{
+  "TransactionType": "Payment",
+  "Account": "r...",
+  "Destination": "r...",
+  "Amount": "1000000",
+  "SourceTag": 12345
+}
+```
+
+With xrpl.js:
+
+```js
+const prepared = await client.autofill({
+  TransactionType: "Payment",
+  Account: wallet.address,
+  Destination: "r...",
+  Amount: xrpl.xrpToDrops("1"),
+  SourceTag: 12345,
+})
+```
+
+**Notes:**
+- `SourceTag` ≠ `DestinationTag`. `DestinationTag` identifies a recipient sub-account (e.g. on an exchange); `SourceTag` identifies the sender side.
+- Range: `0` to `2^32 − 1`.
+- It's stored on-ledger and visible to anyone, so don't put secrets in it.
+- If you're tagging payments for attribution/analytics across an ecosystem, pick a stable integer per source and document it somewhere your team can find.
+
 ---
 
 ### Documentation and essential links
