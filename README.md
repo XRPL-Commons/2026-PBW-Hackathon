@@ -222,7 +222,7 @@ Winners to be announced after the main stage pitches.
 
 [Hack the Block Opening Ceremony](./pdf/PBW2026-Hack-the-Block-Opening-Ceremony.pdf)
 
-[Hack the Block Workshop](./pdf/TODO)
+[Hack the Block Workshop](./pdf/PBW2026-Hack-the-Block-Workshop.pdf)
 
 #### Wifi password
 
