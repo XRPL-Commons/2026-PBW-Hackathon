@@ -250,7 +250,7 @@ Password: `@Ugk65kzma`
 | **YouTube Tutorials** | Video guides for beginners and developers | [XRPL Commons YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
 | **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
-| **Ripple USD Stablecoin Docs** | Reference and documentation of Ripple USD Stablecoin | [Ripple USD Stablecoin Docs](https://docs.ripple.com/stablecoin/) |
+| **Ripple USD Stablecoin Docs** | Reference and documentation of Ripple USD Stablecoin | [Ripple USD Stablecoin Docs]([https://docs.ripple.com/stablecoin/](https://docs.ripple.com/products/stablecoin)) |
 | **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org)  [XRPLWin Explorer](https://xrplwin.com/) |
 | **Wallets, Escrows, Tickets** | Practical tutorials on creating wallets, trustlines, escrows and tickets | [Florian Uzio Guides](https://github.com/florent-uzio/xrpl-commons-tutorials) |
 | **Quicknode Access for XRPL Builders** | QuickNode is offering Hack the Block 2026 participants two months of free credits ($49/month) to help them build on XRPL during and after the hackathon. | [Quicknode for XRPL builders](https://www.notion.so/quicknode/Quicknode-Access-for-XRPL-Builders-32815a82e84c8016af24d994f7f10d01) |
