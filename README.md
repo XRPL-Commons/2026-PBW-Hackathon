@@ -216,6 +216,54 @@ Winners to be announced after the main stage pitches.
 
 ---
 
+### SourceTag attribution by team
+
+Each team is assigned a unique XRPL **SourceTag** following the format `2026040000 + N`, where `N` is the team number. This encodes the year and month (April 2026) and identifies the team in on-chain transactions. Teams are numbered in order of registration.
+
+| # | Team | SourceTag |
+|---|------|-----------|
+| 1 | Nada & Sammie | `2026040001` |
+| 2 | Proof of stake(42) | `2026040002` |
+| 3 | HerVoice | `2026040003` |
+| 4 | FoxHound | `2026040004` |
+| 5 | 42Blockchain | `2026040005` |
+| 6 | Team cassino | `2026040006` |
+| 7 | clauDEX | `2026040007` |
+| 8 | Tamagoscii | `2026040008` |
+| 9 | Megawatt Finance | `2026040009` |
+| 10 | u2p050 | `2026040010` |
+| 11 | Emayan | `2026040011` |
+| 12 | Armand-le-goat | `2026040012` |
+| 13 | OFVA | `2026040013` |
+| 14 | ImportEx | `2026040014` |
+| 15 | Clim | `2026040015` |
+| 16 | XRPandables | `2026040016` |
+| 17 | ShelTr | `2026040017` |
+| 18 | ⚡️🦈⒉𝟘 | `2026040018` |
+| 19 | dbs | `2026040019` |
+| 20 | Test111 | `2026040020` |
+| 21 | XPerp | `2026040021` |
+| 22 | Xrp402 | `2026040022` |
+| 23 | TBD | `2026040023` |
+| 24 | PayTheTalent | `2026040024` |
+| 25 | Youkiiiii | `2026040025` |
+| 26 | XRP hack the block | `2026040026` |
+| 27 | DeSerT_812 | `2026040027` |
+| 28 | Physics is the limit. | `2026040028` |
+| 29 | Not A Rug-Pull | `2026040029` |
+| 30 | Obol | `2026040030` |
+| 31 | HestiaX | `2026040031` |
+| 32 | Carro | `2026040032` |
+| 33 | SlainAds | `2026040033` |
+| 34 | Rexios | `2026040034` |
+| 35 | Legasi | `2026040035` |
+| 36 | FinAura | `2026040036` |
+| 37 | Mise En Block | `2026040037` |
+| 38 | Edel-ID | `2026040038` |
+| 39 | Qaf | `2026040039` |
+
+---
+
 ### Documentation and essential links
 
 #### Slides
