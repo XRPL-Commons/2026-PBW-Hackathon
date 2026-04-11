@@ -38,10 +38,10 @@ Focus on payments, real‑world assets, or institutional DeFi, driving recurring
 ### Partners bounties
 
 #### 💰 Boundless
-Secret (Come back after the opening ceremony).
+Build an XRPL application that offloads heavy computation to the Boundless prover network and verifies the results trustlessly on-chain.
 
 #### 💰 Quicknode
-Secret (Come back after the opening ceremony).
+Build an XRPL application that leverages the Quicknode on demand infrastructure and primitives  in the most innovative way.
 
 ### Impact bounties
 
@@ -51,13 +51,14 @@ Put blockchain at the service of social and environmental impact, fight climate 
 ### Special bounties
 
 #### 💰 Zero to Users
-Secret (Come back after the opening ceremony).
+Launch a live product on XRPL during the hackathon. The winner is whoever drives the most real on-chain users before time runs out. Just traction.
 
 #### 💰 Pixel Meets Chain
-Secret (Come back after the opening ceremony).
+Build the most visually stunning XRPL experience, 2D, 3D, generative, immersive, art, or something we haven't seen yet. Impress us before we even read the code.
 
 #### 💰 Why Not?
-Secret (Come back after the opening ceremony).
+The most unexpected, bizarre, or delightfully absurd XRPL project wins. We don't know what we're looking for, and neither do you. Yet. 
+Forget best practices, think outside the ledger.
 
 ---
 
