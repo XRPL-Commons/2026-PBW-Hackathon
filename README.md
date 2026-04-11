@@ -220,7 +220,7 @@ Winners to be announced after the main stage pitches.
 
 #### Slides
 
-[Hack the Block Opening Ceremony](./pdf/TODO)
+[Hack the Block Opening Ceremony](./pdf/PBW2026-Hack-the-Block-Opening-Ceremony.pdf)
 
 [Hack the Block Workshop](./pdf/TODO)
 
