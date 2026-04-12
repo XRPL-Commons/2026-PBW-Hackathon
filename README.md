@@ -111,9 +111,9 @@ Additional prizes will be awarded as follows. These prizes can be cumulated with
 |------|-------|
 | 08:30 - 10:00 AM | ☕️ Coffee & Breakfast |
 | 11:00 - 11:30 AM | Hack the Mentor (Office hours) |
-| 01:00 PM | **🚨 Final Project Submission 🚨** |
+| 01:00 PM | **Final Project Submission** |
 | 01:00 - 02:00 PM | Lunch break |
-| 02:00 - 03:00 PM | 🎙️ First Round Team Pitches |
+| 02:00 - 03:00 PM | First Round Team Pitches |
 | 03:30 - 03:40 PM | Group Photo |
 | 03:40 - 04:30 PM | Snack time (surprise) + Jury Deliberation |
 | 04:30 - 05:30 PM | Winner Pitches & Closing Ceremony |
